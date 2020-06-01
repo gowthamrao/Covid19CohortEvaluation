@@ -3,3 +3,7 @@ Exposures,settings/CohortToCreateExposures.csv
 SafetyOutcomes,settings/CohortsToCreateSafetyOutcomes.csv
 EfficacyOutcomes,settings/CohortsToCreateEfficayOutcomes.csv
 Characterizations,settings/CohortToCreateCharacterizations.csv
+covid,settings/CohortsToCreateCovid.csv
+influenza,settings/CohortsToCreateInfluenza.csv
+strata,settings/CohortsToCreateStrata.csv
+feature,settings/CohortsToCreateFeature.csv
